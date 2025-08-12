@@ -1,0 +1,15 @@
+# Build outputs
+build/*
+.trace
+.coverage*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Move specific
+Move.lock
